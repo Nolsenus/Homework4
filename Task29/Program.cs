@@ -12,4 +12,5 @@ void PrintIntArray(int[] arr) {
     }
     Console.WriteLine(arr[arr.Length - 1]);
 }
+
 PrintIntArray(RandomArrayOfSizeEight(1, 11));
